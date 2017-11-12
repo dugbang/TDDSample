@@ -1,8 +1,8 @@
 ## TDD에서 사용할 샘플 코드 정리
 
 **출처**
-* [클린코드](https://www.youtube.com/playlist?list=PLuLb6MC4SOvXCRePHrb4e-EYadjZ9KHyH)
-* [msbaek](https://github.com/msbaek/)
+* [백명석-클린코드](https://www.youtube.com/playlist?list=PLuLb6MC4SOvXCRePHrb4e-EYadjZ9KHyH)
+* [백명석님 깃허브](https://github.com/msbaek/)
 
 * 일러두기
     - github에서 클론한 다음 해당 리비전으로 브린치하면 되지만 git 사용법을 몰라서 무식하게 복사하여 저장함...
