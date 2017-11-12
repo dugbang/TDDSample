@@ -5,7 +5,7 @@
 * [msbaek](https://github.com/msbaek/) _깃허브_
 
 * github에서 클론한 다음 해당 리비전으로 브린치하면 되지만 git 사용법을 몰라서 무식하게 복사하여 저장함...
-* 머리로 아는 것이 아니라 몸으로 익혀야 하는 부분으로 실습을 해보자!!
+* **다짐** _머리로 아는 것이 아니라 몸으로 익혀야 하는 부분으로 실습을 해보자!!_
 
 ### [expenses refactoring](https://github.com/msbaek/expense/)
 * Episode 10. OCP(Open but Closed Principle)에서 사용된 예제
