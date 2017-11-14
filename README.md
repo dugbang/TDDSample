@@ -24,6 +24,9 @@
 ### [PrintPrimes Example](https://github.com/msbaek/print-prime)
 * 복잡한 함수를 2개의 클래스로 Extract Method Object하는 과정
     - [소스코드 정보](https://github.com/msbaek/print-prime/commit/c9e14d7e0d506c8b3b037cd86b0cb7737ac0a07b#diff-25d902c24283ab8cfbac54dfa101ad31)
+* 파일 2개를 추가 하였으며 윈도 환경에서 테스트할 수 있도록 수정.
+  - 필요한 경우 **테스트 파일을 직접 만들어 리팩토링을 진행** 할 수 있다.
+  - 테스트 파일이 필요한 이유는 공격적인 리팩토링을 하기 위해서다.
 
 ### videostore
 * [Switch 문장을 Polymorphic Dispatcher로 치환하기](https://github.com/msbaek/videostore)
