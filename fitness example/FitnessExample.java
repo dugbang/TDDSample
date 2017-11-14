@@ -1,5 +1,3 @@
-//package function;
-
 import fitnesse.responders.run.SuiteResponder;
 import fitnesse.wiki.*;
 
