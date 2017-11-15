@@ -20,6 +20,18 @@
 ### [fitness example](https://github.com/msbaek/fitness-example)
 * 큰 함수 리팩토리 방법
     - [소스코드 정보](https://github.com/msbaek/fitness-example/commit/464fe42929b93fefcb9b99980db76ec1c34a3881#diff-0494caf1dfbc3a4ff5b53428cae27fc3)
+* 안드로이드 스튜디오에서 사용할 경우 디펜던시를 설정하여야 함
+    - build.gradle (Moulde.app)
+    ```
+    dependencies {
+        ...
+        // 아래 내용 추가
+        compile group: 'org.fitnesse', name: 'fitnesse', version: '20081201'
+    }'''
+* 윈도에서 사용할 경우 개행문자에 대한 처리 필요함.
+    - expectedResultForTestCase, expectedResultForNonTestCase 의 값에서 "\n" => "\r\n" 으로 변경
+    - 테스트를 실행하여 문제가 없음을 확인한 후에 실습시작.
+
 
 ### [PrintPrimes Example](https://github.com/msbaek/print-prime)
 * 복잡한 함수를 2개의 클래스로 Extract Method Object하는 과정
